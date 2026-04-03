@@ -1,0 +1,35 @@
+{
+  "verified_facts": [
+    {
+      "query": "ibuprofen pregnancy",
+      "fact": "Ibuprofen is generally not recommended during pregnancy, especially after 30 weeks, as it may cause heart problems in the baby and reduce amniotic fluid.",
+      "is_safe": false,
+      "risk_level": "High Risk"
+    },
+    {
+      "query": "paracetamol fever",
+      "fact": "Paracetamol (Acetaminophen) is widely considered safe for treating fever and pain when used at recommended dosages.",
+      "is_safe": true,
+      "risk_level": "Safe"
+    },
+    {
+      "query": "aspirin children",
+      "fact": "Aspirin should not be given to children under 16 unless specifically advised by a doctor, due to the risk of Reye's syndrome.",
+      "is_safe": false,
+      "risk_level": "High Risk"
+    },
+    {
+      "query": "vitamin c cold",
+      "fact": "Vitamin C may slightly reduce the duration of a cold but does not prevent it for most people.",
+      "is_safe": true,
+      "risk_level": "Safe"
+    },
+    {
+      "query": "insulin diabetes",
+      "fact": "Insulin is a critical hormone used to manage blood sugar levels in people with diabetes.",
+      "is_safe": true,
+      "risk_level": "Safe"
+    }
+  ],
+  "disclaimer": "This information is for educational purposes and is not formal medical advice."
+}
